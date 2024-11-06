@@ -1,0 +1,48 @@
+
+
+ 
+ 
+   header {
+    color: coral;
+      width: 50%;
+   height: 50%;
+   padding: 25%;
+    background-image: url(https://media.istockphoto.com/id/1366769735/es/foto/transmisi%C3%B3n-sin%C3%A1ptica.jpg?s=612x612&w=0&k=20&c=-i3mzyFIesvNwSgiyDG39xxLgeuVZIos9u0wVaf0oJg=);
+    background-size: cover ;
+    background-repeat: no-repeat;
+   }
+
+h1{
+    text-align: left;
+     margin: 0%;
+    padding: 0%;
+    
+}
+
+main >div>h2{
+    border: 2px, solid; color: rgb(14, 6, 70);
+    padding: 0.5%;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 99%;
+    display: inline-block
+    }
+    
+
+main>div>img{
+    width: 40%;
+        height: 30%; 
+        display: flex;
+        border: 1px, solid; 
+}
+          
+main>div>img:hover{
+    transform: translate(10px,10px);
+
+}
+
+.temas{
+    display: inline-block
+    
+
+  }
